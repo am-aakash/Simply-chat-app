@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206671198379",
+    "project_id": "simply-chat-app-fb3ea",
+    "storage_bucket": "simply-chat-app-fb3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206671198379:android:8a7e53488fa737bdc4dfee",
+        "android_client_info": {
+          "package_name": "com.example.simply_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206671198379-b3mqtict9t3m7d39hnqpumcu08kbtep3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.simply_chat_app",
+            "certificate_hash": "bc6499d97a6617e26094420b1864b6a985a802b1"
+          }
+        },
+        {
+          "client_id": "206671198379-c3ibjf88mt7sml3vmqr9nqctkspndmaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_z6pYFXfHZskz8vK7wW4Q75IvKaVuD0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206671198379-c3ibjf88mt7sml3vmqr9nqctkspndmaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
